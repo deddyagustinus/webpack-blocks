@@ -1,5 +1,9 @@
 # @webpack-blocks/postcss - Changelog
 
+## 0.4.0
+
+- No changes (but `lerna` wants to bump the block's version anyway)
+
 ## 0.3.2
 
 - Bug fix: PostCSS plugin configuration now works with webpack 2 ([#68](https://github.com/andywer/webpack-blocks/issues/68))
