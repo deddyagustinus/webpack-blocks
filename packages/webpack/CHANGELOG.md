@@ -1,8 +1,10 @@
 # @webpack-blocks/webpack - Changelog
 
-## Next release
+## 0.4.0
 
 - Provide `createConfig.vanilla()` (see [#80](https://github.com/andywer/webpack-blocks/issues/80))
+- Using updated `@webpack-blocks/core`, `@webpack-blocks/webpack-common` and updated blocks
+- Had to update integration test, due to `webpack-merge` update
 
 ## 0.3.0
 
